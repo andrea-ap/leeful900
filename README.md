@@ -14,8 +14,6 @@ All’interno della repository è possibile trovare un file .img. L’immagine p
 
 Per eseguire  l’exploit sulla console eseguite il file index.html , aspettare fino a quando non viene visualizzato un avviso di inserire l’unità USB e attendere fino a quando non viene visualizzata la notifica “disk format not supported”, quindi chiudere l’avviso con “OK”, ed attendere il messaggio di conferma .
 
-Note: Bisogna inserire l’unità USB quando viene visualizzato l’avviso, quindi lasciarlo lì per un po’ finché non vengono visualizzate le notifiche di archiviazione della PS4.
-
 Scollegare l’unità USB prima di un ciclo di (ri)avvio rischia di danneggiare l’heap del kernel all’avvio.
 
 
